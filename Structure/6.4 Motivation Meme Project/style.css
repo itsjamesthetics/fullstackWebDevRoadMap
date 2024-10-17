@@ -1,0 +1,25 @@
+html, body {
+    scroll-behavior: smooth;
+    background-color: black;
+}
+
+.div-class-1 h1, p {
+    color: white;
+    background-color: black;
+}
+
+.div-class-1 h1 {
+    font-family: "Libre Baskerville", serif;
+    text-transform: uppercase;
+}
+
+.div-class-1 {
+    margin-top: 80px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-class-1 img {
+    border: 5px solid white ;
+}
